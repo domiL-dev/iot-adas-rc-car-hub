@@ -15,7 +15,7 @@ The goal of this project is to build a modular, remote-controlled vehicle ecosys
 
 The ecosystem is split into independent, clean repositories. You can explore the source code here:
 
-*   **[Pico 2WH Firmware](https://github.com)**
+*   **[Pico 2WH Firmware](https://github.com/domiL-dev/pico2w-iot-adas-rc-car)**
     *   Processes MQTT control commands (WASD) from the dashboard and drives the motor driver via GPIO.
     *   Features built-in safety logic to protect the drivetrain (e.g., prevents immediate shifting from forward to reverse).
     *   Sends real-time telemetry and debug messages back to the operator.
