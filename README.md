@@ -2,6 +2,9 @@
 
 # 🚗 IoT ADAS RC Car System Hub
 
+> ⚠️ **Project Status: Ongoing / Active Development**  
+> This is a personal learning project and is currently under active construction. New features, documentation, and hardware components (like the Raspberry Pi 4 integration) are added continuously.
+
 This is the central overview repository for my **IoT ADAS RC Car Project**. 
 
 The goal of this project is to build a modular, remote-controlled vehicle ecosystem driven by modern driver assistance and autonomous features. Components communicate asynchronously using the **MQTT protocol**.
