@@ -36,7 +36,7 @@ The ecosystem is split into independent, clean repositories. You can explore the
 Here you can see the actual state of the physical layout, wiring, and assembly of the RC Car:
 
 ### Overall IoT Vehicle View and future components (actual state)
-![RC Car Overview](images/car_IoT_actual_state.jpeg)
+![RC Car Overview](images/car_Iot_actual_state.jpeg)
 
 
 
